@@ -3,8 +3,7 @@ def second_challenge
     :montague => {
       #your key/value pairs here!
         patriarch: {
-          name: "Lord Montague",
-          age: "53"
+
         },
         matriarch: {
           
@@ -13,7 +12,7 @@ def second_challenge
           
         },
         hero_friends: [
-          {}, {}]
+        ]
       }, 
     :capulet => {
       #your key/value pairs here!
